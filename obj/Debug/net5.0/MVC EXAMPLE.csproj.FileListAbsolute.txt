@@ -1,0 +1,40 @@
+/home/luis/Proyectos/MVC EXAMPLE/bin/Debug/net5.0/appsettings.Development.json
+/home/luis/Proyectos/MVC EXAMPLE/bin/Debug/net5.0/appsettings.json
+/home/luis/Proyectos/MVC EXAMPLE/bin/Debug/net5.0/MVC EXAMPLE
+/home/luis/Proyectos/MVC EXAMPLE/bin/Debug/net5.0/MVC EXAMPLE.deps.json
+/home/luis/Proyectos/MVC EXAMPLE/bin/Debug/net5.0/MVC EXAMPLE.runtimeconfig.json
+/home/luis/Proyectos/MVC EXAMPLE/bin/Debug/net5.0/MVC EXAMPLE.runtimeconfig.dev.json
+/home/luis/Proyectos/MVC EXAMPLE/bin/Debug/net5.0/MVC EXAMPLE.dll
+/home/luis/Proyectos/MVC EXAMPLE/bin/Debug/net5.0/ref/MVC EXAMPLE.dll
+/home/luis/Proyectos/MVC EXAMPLE/bin/Debug/net5.0/MVC EXAMPLE.pdb
+/home/luis/Proyectos/MVC EXAMPLE/bin/Debug/net5.0/MVC EXAMPLE.Views.dll
+/home/luis/Proyectos/MVC EXAMPLE/bin/Debug/net5.0/MVC EXAMPLE.Views.pdb
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.csprojAssemblyReference.cache
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.AssemblyInfoInputs.cache
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.AssemblyInfo.cs
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.csproj.CoreCompileInputs.cache
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.MvcApplicationPartsAssemblyInfo.cache
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.RazorAssemblyInfo.cache
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.RazorAssemblyInfo.cs
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/staticwebassets/MVC EXAMPLE.StaticWebAssets.Manifest.cache
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/staticwebassets/MVC EXAMPLE.StaticWebAssets.xml
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/scopedcss/bundle/MVC EXAMPLE.styles.css
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.TagHelpers.input.cache
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.TagHelpers.output.cache
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.RazorCoreGenerate.cache
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.RazorTargetAssemblyInfo.cache
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.RazorTargetAssemblyInfo.cs
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.Views.pdb
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.dll
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/ref/MVC EXAMPLE.dll
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.pdb
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.genruntimeconfig.cache
+/home/luis/Proyectos/MVC EXAMPLE/obj/Debug/net5.0/MVC EXAMPLE.csproj.CopyComplete
